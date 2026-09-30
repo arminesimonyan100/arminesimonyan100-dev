@@ -1,10 +1,16 @@
 # Hi, I'm Armine Simonyan 
 
-### Full-Stack Engineer · AI Integration · SaaS · Cloud
+### I turn complex ideas into systems that actually work.
 
-I build production-grade web applications and AI-powered systems end to end — from frontend experiences and APIs to cloud infrastructure, integrations, and intelligent workflows.
+I build software beyond the happy path.
 
-I work across **SaaS, marketplaces, e-commerce, media, business automation, and AI-powered products**, with a focus on scalable architecture, maintainable code, and real-world production systems.
+The kind of systems where the UI is only the beginning, APIs talk to APIs, AI does more than generate text, background jobs handle the heavy lifting, and cloud infrastructure keeps everything moving when real users show up.
+
+I'm a Full-Stack Engineer working at the intersection of product engineering, AI, distributed systems, and cloud architecture.
+
+I don't just connect technologies. I connect the pieces that turn an idea into a working product.
+
+From the first component to the last event in the queue.
 
 
 
