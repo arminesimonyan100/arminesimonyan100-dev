@@ -1,16 +1,15 @@
 # Hi, I'm Armine Simonyan 
 
-### I turn complex ideas into systems that actually work.
+### I engineer systems where product complexity meets production reality.
 
-I** build software** beyond the happy path.
+I work across the full software lifecycle: translating business requirements into architecture, building robust application layers, integrating intelligent workflows, and designing cloud infrastructure that remains reliable under real-world conditions.
 
-The kind of systems where the UI is only the beginning, APIs talk to APIs, AI does more than generate text, background jobs handle the heavy lifting, and cloud infrastructure keeps everything moving when real users show up.
+I approach engineering as a systems problem, not a collection of isolated technologies. I consider how every architectural decision, API contract, data model, asynchronous process, and integration affects performance, reliability, security, and long-term maintainability.
 
-I'm a** Full-Stack Engineer** working at the intersection of product engineering, A**I, distributed systems**, and cloud architecture.
+My work spans SaaS platforms, legacy system modernization, marketplace infrastructure, LLM-powered applications, and event-driven architectures on AWS.
 
-I don't connect technologies. I connect the pieces that turn an idea into a working product.
+My focus is not simply on making software work, but on engineering systems that are reliable, maintainable, scalable, and built to evolve with the business.
 
-From the first component to the last event in the queue.
 
 
 
