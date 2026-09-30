@@ -2,13 +2,13 @@
 
 ### I turn complex ideas into systems that actually work.
 
-I build software beyond the happy path.
+I** build software** beyond the happy path.
 
 The kind of systems where the UI is only the beginning, APIs talk to APIs, AI does more than generate text, background jobs handle the heavy lifting, and cloud infrastructure keeps everything moving when real users show up.
 
-I'm a Full-Stack Engineer working at the intersection of product engineering, AI, distributed systems, and cloud architecture.
+I'm a** Full-Stack Engineer** working at the intersection of product engineering, A**I, distributed systems**, and cloud architecture.
 
-I don't just connect technologies. I connect the pieces that turn an idea into a working product.
+I don't connect technologies. I connect the pieces that turn an idea into a working product.
 
 From the first component to the last event in the queue.
 
