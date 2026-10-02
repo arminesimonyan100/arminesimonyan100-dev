@@ -1,5 +1,4 @@
-# Hi, I'm Armine Simonyan
-Full-stack engineer in Yerevan, Armenia, with 7 years of experience. I build SaaS platforms, marketplaces and internal tools end to end, and for the last two years I've been putting Claude, GPT and Gemini inside production features.
+# Hi, I'm Armine Simonyan Full-stack engineer in Yerevan, Armenia, with 7 years of experience. I build SaaS platforms, marketplaces and internal tools end to end, and for the last two years I've been putting Claude, GPT and Gemini inside production features.
 
 ## Things I've shipped
 
