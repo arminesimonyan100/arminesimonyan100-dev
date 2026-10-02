@@ -1,19 +1,18 @@
-# Hi, I'm Armine Simonyan 
+# Hi, I'm Armine Simonyan
 
-## Full-stack engineer in Yerevan, Armenia. I build SaaS platforms, marketplaces and internal tools end to end, and for the last two years I've been putting Claude, GPT and Gemini inside production features.
+Full-stack engineer in Yerevan, Armenia, with 7 years of experience. I build SaaS platforms, marketplaces and internal tools end to end, and for the last two years I've been putting Claude, GPT and Gemini inside production features.
 
 ## Things I've shipped
 
-- **Pricing engine:** 50,000+ products a day across 100+ e-commerce sites at 99% success.
-- **AI review module (Claude + Gemini):** compares technical submittals against project specs for a construction-software platform.
+- **Pricing engine:** processes 50,000+ products a day across 100+ e-commerce sites at 99% success.
+- **AI review module (Claude + Gemini):** checks technical submittals against project specs for a construction-software platform.
 - **Healthcare workflow tooling:** cut case preparation time by 35% and admin follow-up by 25%.
-- **Field app for pool-service teams:** React Native app that works with no signal, queues readings and photos in SQLite and syncs later. It sits on a Stripe/QuickBooks Online two-way sync, plus a LangGraph agent on AWS Bedrock that checkpoints and resumes customer imports.
-- **Filmcuts:** moved a film-clip licensing marketplace from WordPress to Next.js/NestJS. Added an S3 → Lambda → MediaConvert HLS pipeline and BullMQ queues (+40% throughput), and the redesign contributed to a 20% conversion lift.
-
+- **Field app for pool-service teams:** a React Native app that works with no signal, stores readings and photos locally in SQLite and syncs when the connection returns. It's backed by a two-way Stripe/QuickBooks Online sync and a LangGraph agent on AWS Bedrock that checkpoints customer imports and resumes where the admin left off.
+- **Film-clip licensing marketplace:** rebuilt from WordPress to Next.js/NestJS. I added an S3 → Lambda → MediaConvert HLS video pipeline and BullMQ background queues (+40% throughput), and the redesign contributed to a 20% conversion lift.
 
 ## Open to
 
-Full-stack and AI-integration roles, freelance or full-time. Comfortable working across time zones.
+Full-stack and AI-integration roles, freelance or full-time. I work across time zones.
 
 
 
