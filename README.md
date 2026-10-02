@@ -1,6 +1,6 @@
 # Hi, I'm Armine Simonyan 
 
-## Full-stack engineer in Yerevan, Armenia. I build SaaS platforms, marketplaces and internal tools end to end, and for the last two years I've been putting Claude, GPT and Gemini inside production features. Freelance via Toptal and Proxify.
+## Full-stack engineer in Yerevan, Armenia. I build SaaS platforms, marketplaces and internal tools end to end, and for the last two years I've been putting Claude, GPT and Gemini inside production features.
 
 ## Things I've shipped
 
