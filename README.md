@@ -1,15 +1,19 @@
 # Hi, I'm Armine Simonyan 
 
-### I engineer systems where product complexity meets production reality.
+## Full-stack engineer in Yerevan, Armenia. I build SaaS platforms, marketplaces and internal tools end to end, and for the last two years I've been putting Claude, GPT and Gemini inside production features. Freelance via Toptal and Proxify.
 
-I work across the full software lifecycle: translating business requirements into architecture, building robust application layers, integrating intelligent workflows, and designing cloud infrastructure that remains reliable under real-world conditions.
+## Things I've shipped
 
-I approach engineering as a systems problem, not a collection of isolated technologies. I consider how every architectural decision, API contract, data model, asynchronous process, and integration affects performance, reliability, security, and long-term maintainability.
+- **Pricing engine:** 50,000+ products a day across 100+ e-commerce sites at 99% success.
+- **AI review module (Claude + Gemini):** compares technical submittals against project specs for a construction-software platform.
+- **Healthcare workflow tooling:** cut case preparation time by 35% and admin follow-up by 25%.
+- **Field app for pool-service teams:** React Native app that works with no signal, queues readings and photos in SQLite and syncs later. It sits on a Stripe/QuickBooks Online two-way sync, plus a LangGraph agent on AWS Bedrock that checkpoints and resumes customer imports.
+- **Filmcuts:** moved a film-clip licensing marketplace from WordPress to Next.js/NestJS. Added an S3 → Lambda → MediaConvert HLS pipeline and BullMQ queues (+40% throughput), and the redesign contributed to a 20% conversion lift.
 
-My work spans SaaS platforms, legacy system modernization, marketplace infrastructure, LLM-powered applications, and event-driven architectures on AWS.
 
-My focus is not simply on making software work, but on engineering systems that are reliable, maintainable, scalable, and built to evolve with the business.
+## Open to
 
+Full-stack and AI-integration roles, freelance or full-time. Comfortable working across time zones.
 
 
 
@@ -143,13 +147,6 @@ Worked on large-scale product and competitor-pricing interfaces, focusing on fro
 * Cloud-native architecture
 * Performance and scalability
 
-
-
-## 📫 Connect
-
-📍 Yerevan, Armenia · Remote
-
-💼 [LinkedIn]([https://www.linkedin.com/in/armine-simonyan-ai-fullstack-software-engineer/](https://www.linkedin.com/in/armine-simonyan-ai-fullstack-software-engineer/))
 
 
 
